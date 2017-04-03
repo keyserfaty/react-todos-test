@@ -1,0 +1,27 @@
+exports[`test should render a todos component 1`] = `
+<div
+  id="todos-container">
+  <div
+    id="todos-input">
+    <input
+      onChange={[Function]}
+      type="text"
+      value="" />
+    <button
+      onClick={[Function]}>
+      Add todo!
+    </button>
+  </div>
+  <div
+    id="todos-list">
+    <ul>
+      <li>
+        todo 1
+      </li>
+      <li>
+        todo 2
+      </li>
+    </ul>
+  </div>
+</div>
+`;
